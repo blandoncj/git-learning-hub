@@ -192,10 +192,10 @@ Intenta actualizar Git a la última versión.
 
 Una vez que Git esté instalado, puedes proceder a:
 
-1. [Configuración Inicial](/docs/es/configuracion-inicial.md) - Configurar tu identidad y preferencias.
-2. [Conceptos Básicos](/docs/es/conceptos-basicos.md) - Entender los términos clave.
-3. [Introducción](/docs/es/introduccion.md) - Revisar conceptos generales.
+1. [Configuración Inicial](configuracion-inicial.md) - Configurar tu identidad y preferencias.
+2. [Conceptos Básicos](conceptos-basicos.md) - Entender los términos clave.
+3. [Introducción](introduccion.md) - Revisar conceptos generales.
 
 ---
 
-**Anterior:** [introducción](/docs/es/introduccion.md) | **Siguiente:** [configuración inicial](/docs/es/configuracion-inicial.md)
+**Anterior:** [introducción](introduccion.md) | **Siguiente:** [configuración inicial](configuracion-inicial.md)
