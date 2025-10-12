@@ -54,7 +54,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## 📄 License
 
-This project is licensed under [MIT](LICENSE.md)
+This project is licensed under [MIT](LICENSE)
 
 ---
 

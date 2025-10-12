@@ -54,7 +54,7 @@ Lee [CONTRIBUYENDO.md](CONTRIBUYENDO.md)
 
 ## 📄 Licencia
 
-Este proyecto está bajo licencia [MIT](LICENSE.md)
+Este proyecto está bajo licencia [MIT](LICENSE)
 
 ---
 
