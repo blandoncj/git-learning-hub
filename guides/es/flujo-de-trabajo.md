@@ -703,4 +703,4 @@ git branch -d feature/mi-trabajo
 
 ---
 
-**Anterior:** [Gestión de Ramas ←](gestion-ramas.md) | **Siguiente:** [Rastreo de Cambios →](rastreo-cambios.md)
+**Anterior:** [Gestión de Ramas](gestion-ramas.md) | **Siguiente:** [Rastreo de Cambios](rastreo-cambios.md)
