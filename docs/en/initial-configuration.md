@@ -266,7 +266,7 @@ If you work with multiple Git accounts (personal and work), see the conditional 
 Now that you have Git configured:
 
 1. **[Basic Concepts](basic-concepts.md)** - Learn key terminology
-2. Read the guide on **[SSH vs HTTPS Authentication](/guias/en/authentication-ssh-https.md)** to connect to remote repositories
+2. Read the guide on **[SSH vs HTTPS Authentication](/guides/en/authentication-ssh-https.md)** to connect to remote repositories
 3. Start with **[basic level exercises](/ejercicios/nivel-basico)**
 
 ---
