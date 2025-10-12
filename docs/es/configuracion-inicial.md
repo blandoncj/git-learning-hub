@@ -247,7 +247,7 @@ Una vez que hayas completado la configuración, estás list para:
 Ahora que tienes Git configurado:
 
 1. [Conceptos Básicos de Git](docs/es/conceptos-basicos.md) - Aprende los términos clave.
-2. Lee la guía sobre [Autenticación SSH vs HTTPS](guias/es/autenticacion-ssh-https.md) para conectarte a repositorios remotos.
+2. Lee la guía sobre [Autenticación SSH vs HTTPS](guides/es/autenticacion-ssh-https.md) para conectarte a repositorios remotos.
 3. Empieza con los [ejercicios de nivel básico](ejercicios/nivel-basico.md) para practicar.
 
 ---
