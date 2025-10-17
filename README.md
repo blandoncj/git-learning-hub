@@ -37,4 +37,4 @@ This project is licensed under [MIT](LICENSE)
 
 ---
 
-[Versión en Español](/README.md)
+[Versión en Español](/README.es.md)
