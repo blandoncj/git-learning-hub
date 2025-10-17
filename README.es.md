@@ -11,7 +11,7 @@ que quieren aprender o mejorar sus habilidades en Git, GitHub, GitLab y Bitbucke
 - [Documentación](/docs) - Introducción y conceptos básicos
 - [Guías](/guias) - Guías detalladas por tema
 - [Ejemplos Prácticos](/ejemplos-practicos) - Casos de uso reales
-- [Ejercicios](/ejercicios) - Práctica con soluciones
+- [Ejercicios](/exercises) - Práctica con soluciones
 - [Cheat Sheets](/cheat-sheets) - Referencia rápida
 - [Referencia](/referencia) - Comandos y documentación
 - [Herramientas](/herramientas) - Guías de herramientas populares
