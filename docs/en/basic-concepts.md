@@ -482,7 +482,7 @@ REMOTE REPOSITORY
 Now that you understand the basic concepts:
 
 1. **[SSH vs HTTPS Authentication](/guides/en/authentication-ssh-https.md)** - How to connect to remote repositories
-2. **[Basic Level Exercises](/ejercicios/nivel-basico)** - Practice what you've learned
+2. **[Basic Level Exercises](/exercises/basic-level/)** - Practice what you've learned
 
 ---
 
