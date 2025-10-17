@@ -10,14 +10,10 @@ who want to learn or improve their skills with Git, GitHub, GitLab, and Bitbucke
 
 - [Documentation](/docs) - Introduction and basic concepts
 - [Guides](/guias) - Detailed guides by topic
-- [Practical Examples](/ejemplos-practicos) - Real-world use cases
 - [Exercises](/exercises) - Practice with solutions
 - [Cheat Sheets](/cheat-sheets) - Quick reference
-- [Reference](/referencia) - Commands and documentation
-- [Tools](/herramientas) - Guides for popular tools
-- [Tutorials](/tutoriales) - Step-by-step guides
 - [Troubleshooting](/troubleshooting) - Problem solving
-- [External Resources](/recursos-externos) - Courses and links
+- [Recursos](/resources) - Cursos y enlaces
 
 ## 🎯 For Beginners
 
@@ -27,30 +23,13 @@ Start here:
 2. Install Git following [Installation](/docs/en/installation.md)
 3. Do [Initial Configuration](/docs/en/initial-configuration.md)
 4. Learn [Basic Concepts](/docs/en/basic-concepts.md)
-5. Complete [Basic Level Exercises](/ejercicios/nivel-basico)
-
-## 🚀 For Intermediate Users
+5. Complete [Basic Level Exercises](/exercises/basic-level/)
 
 Deepen your knowledge:
 
-- Read the [Thematic Guides](/guias/en)
-- Explore [Practical Examples](/ejemplos-practicos)
-- Practice with [Intermediate Exercises](/ejercicios/nivel-intermedio)
-- Check out [Tools](/herramientas)
-
-## 💪 For Advanced Users
-
-Master advanced techniques:
-
-- Study [Git Flow](/tutoriales/en/git-flow-step-by-step.md)
-- Learn [Advanced Techniques](/ejemplos-practicos/avanzados)
-- Solve [Advanced Exercises](/ejercicios/nivel-avanzado)
-- Contribute your own resources
-
-## 🤝 Contributing
-
-Found an error? Have an example to share?
-Read [CONTRIBUTING.md](CONTRIBUTING.md)
+- Read the [Thematic Guides](/guides/en)
+- Practice with [Exercises](/exercises/basic-level/)
+- Check out [Resources](/resources)
 
 ## 📄 License
 

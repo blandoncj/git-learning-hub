@@ -9,17 +9,11 @@ que quieren aprender o mejorar sus habilidades en Git, GitHub, GitLab y Bitbucke
 ## 📚 Contenido
 
 - [Documentación](/docs) - Introducción y conceptos básicos
-- [Guías](/guias) - Guías detalladas por tema
-- [Ejemplos Prácticos](/ejemplos-practicos) - Casos de uso reales
+- [Guías](/guides) - Guías detalladas por tema
 - [Ejercicios](/exercises) - Práctica con soluciones
 - [Cheat Sheets](/cheat-sheets) - Referencia rápida
-- [Referencia](/referencia) - Comandos y documentación
-- [Herramientas](/herramientas) - Guías de herramientas populares
-- [Tutoriales](/tutoriales) - Paso a paso
 - [Troubleshooting](/troubleshooting) - Solución de problemas
-- [Recursos Externos](/recursos-externos) - Cursos y enlaces
-
-## 🎯 Para Principiantes
+- [Recursos](/resources) - Cursos y enlaces
 
 Comienza aquí:
 
@@ -27,30 +21,13 @@ Comienza aquí:
 2. Instala Git siguiendo [Instalación](/docs/es/instalacion.md)
 3. Haz [Configuración Inicial](/docs/es/configuracion-inicial.md)
 4. Aprende los [Conceptos Básicos](/docs/es/conceptos-basicos.md)
-5. Completa los [Ejercicios de Nivel Básico](/ejercicios/nivel-basico)
-
-## 🚀 Para Usuarios Intermedios
+5. Completa los [Ejercicios de Nivel Básico](/exercises/basic-level/)
 
 Profundiza tu conocimiento:
 
-- Lee las [Guías Temáticas](/guias)
-- Explora [Ejemplos Prácticos](/ejemplos-practicos)
-- Practica con [Ejercicios Intermedios](/ejercicios/nivel-intermedio)
-- Consulta [Herramientas](/herramientas)
-
-## 💪 Para Usuarios Avanzados
-
-Domina técnicas avanzadas:
-
-- Estudia [Git Flow](/tutoriales/es/git-flow-paso-a-paso.md)
-- Aprende [Técnicas Avanzadas](/ejemplos-practicos/avanzados)
-- Resuelve [Ejercicios Avanzados](/ejercicios/nivel-avanzado)
-- Contribuye con tus propios recursos
-
-## 🤝 Contribuir
-
-¿Encontraste un error? ¿Tienes un ejemplo para compartir?
-Lee [CONTRIBUYENDO.md](CONTRIBUYENDO.md)
+- Lee las [Guías Temáticas](/guides)
+- Practica con [Ejercicios](/exercises/)
+- Consulta [Recursos](/resources)
 
 ## 📄 Licencia
 
@@ -58,4 +35,4 @@ Este proyecto está bajo licencia [MIT](LICENSE)
 
 ---
 
-[English Version](/README.en.md)
+[English Version](/README.md)
