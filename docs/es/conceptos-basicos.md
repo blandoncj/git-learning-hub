@@ -464,7 +464,7 @@ REPOSITORIO REMOTO
 Ahora que comprendes los conceptos básicos:
 
 1. [Autenticación SSH vs HTTPS](/guides/es/autenticacion-ssh-https.md) - Aprende a conectar con repositorios remotos.
-2. [Ejercicios de Nivel Básico](/ejercicios/nivel-basico.md)
+2. [Ejercicios de Nivel Básico](/exercises/basic-level/)
 
 ---
 
